@@ -1,8 +1,11 @@
 ### Eae! Me chamo Tiago 👍
 
-Sou estudante do <a href="https://www.ifb.edu.br" title="Página do Instituto Federal de Brasília" target="_blank">IFB<a>, e estou cursando **Sistemas para Internet**.
+Sou estudante do&nbsp;
+<a href="https://www.ifb.edu.br" title="Página do Instituto Federal de Brasília" target="_blank">
+  <img src="ifb.svg" width="22px" align="bottom"/>
+<a>, e estou cursando **Sistemas para Internet**.
 <br>
-
+  
 🌱 Atualmente estou aprendendo Python!
 
 ---
