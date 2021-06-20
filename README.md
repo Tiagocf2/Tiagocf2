@@ -6,7 +6,8 @@ Sou estudante do&nbsp;
 <a>, e estou cursando **Sistemas para Internet**.
 <br>
   
-🌱 Atualmente estou aprendendo Python!
+🌱 Atualmente estou aprendendo Node.js!
+ 
 
 ---
 #### Linguagens
