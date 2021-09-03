@@ -37,3 +37,5 @@ Sou estudante do&nbsp;
 
 #### Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/tiagocfrausino "Meu perfil no Linkedin ☻")
+
+Baixe meu currículo [aqui](https://github.com/Tiagocf2/Tiagocf2/raw/main/Corriculum-Vitae--Tiago-Civatti-Frausino.pdf).
