@@ -36,7 +36,7 @@ Sou estudante do&nbsp;
 ###### _Note que o uso das linguagems não é correlacionado com o meu nível de experiência na mesma._
 
 #### Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/tcf2 "Meu perfil no Linkedin ☻")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tcf2 "Meu perfil no Linkedin ☻")
 
 --- 
  
