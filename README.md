@@ -40,5 +40,6 @@ Sou estudante do&nbsp;
 
 --- 
  
+### Cheque meu [portifólio](https://tiagocf2.github.io/) (ainda em desenvolvimento...).
 Baixe meu [currículo](https://github.com/Tiagocf2/Tiagocf2/raw/main/Corriculum-Vitae--Tiago-Civatti-Frausino.pdf).  
-Cheque meu [portifólio](https://tiagocf2.github.io/) (ainda em desenvolvimento...).
+
