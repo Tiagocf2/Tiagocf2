@@ -6,7 +6,7 @@ Sou estudante do&nbsp;
 <a>, e estou cursando **Sistemas para Internet**.
 <br>
   
-🌱 Atualmente estou aprendendo Django!
+🌱 Atualmente estou aprendendo React!
 
 <br>
   
@@ -23,9 +23,13 @@ Sou estudante do&nbsp;
   
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 <br>
   
