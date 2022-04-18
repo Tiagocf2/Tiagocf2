@@ -1,12 +1,13 @@
 ### Eae! Me chamo Tiago 👍
 
-Sou estudante do&nbsp;
+Sou formado em Sistemas para Internet pelo&nbsp;
 <a href="https://www.ifb.edu.br" title="Página do Instituto Federal de Brasília" target="_blank">
   <img src="ifb.svg" width="22px" align="bottom"/>
-<a>, e estou cursando **Sistemas para Internet**.
+<a>
+<br>
 <br>
   
-🌱 Atualmente estou aprendendo React!
+🌱 Atualmente estou aprendendo Flutter!
 
 <br>
   
